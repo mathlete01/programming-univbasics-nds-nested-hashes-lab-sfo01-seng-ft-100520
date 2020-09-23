@@ -10,7 +10,7 @@ def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
   assembeledArray = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
-  puts "assembeledArray = #{assembeledArray}"
+  #puts "assembeledArray = #{assembeledArray}"
 end
 
 assembled_aoh()
@@ -24,7 +24,7 @@ def literal_aoh
   literalArray[2]= PAT_M
   literalArray[3]= KATE_G
   literalArray[4]= BRUCE_G
-  puts "literalArray = #{literalArray}"
+  #puts "literalArray = #{literalArray}"
 end
 
 literal_aoh()
