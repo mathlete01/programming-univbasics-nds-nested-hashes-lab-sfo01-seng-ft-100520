@@ -24,6 +24,7 @@ def literal_aoh
   literalArray[2]= PAT_M
   literalArray[3]= KATE_G
   literalArray[4]= BRUCE_G
+  literalArray
   #puts "literalArray = #{literalArray}"
 end
 
